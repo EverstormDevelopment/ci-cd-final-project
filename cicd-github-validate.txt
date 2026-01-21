@@ -1,0 +1,18 @@
+
+✓ main CI workflow · 21215766199
+Triggered via push about 6 minutes ago
+
+JOBS
+✓ build in 12s (ID 61036306013)
+  ✓ Set up job
+  ✓ Checkout
+  ✓ Setup Node.js
+  ✓ Install dependencies
+  ✓ Lint with ESLint
+  ✓ Run unit tests with Jest
+  ✓ Post Setup Node.js
+  ✓ Post Checkout
+  ✓ Complete job
+
+For more information about a job, try: gh run view --job=<job-id>
+View this run on GitHub: https://github.com/EverstormDevelopment/ci-cd-final-project/actions/runs/21215766199
